@@ -1,13 +1,13 @@
 # Frontend Mentor - Stats preview card component solution
 
-:point_right: This is the [Stats preview card component](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-6dy6Iq7KC) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm3_stats_preview_card_component/)
 
 Give a ⭐️ if you like this project!
 
